@@ -1,4 +1,4 @@
-# Laboratory Infrastructure and Design
+# Laboratory Infrastructure and Design {#2-laboratory-management-practices}
 
 ## Finding a Lab Location and Getting Started
 
@@ -34,7 +34,7 @@ After establishing your lab, reach out to your local fire and police department 
 
 ## Lab Infrastructure and Design
 
-When setting up a community biology lab, consider the equipment and materials you will use and the basic infrastructure required to handle them. Whether setting up a space for the first time, moving to a new space, or settling into the space, consider the following list of recommendations for the infrastructure and design of a biology lab. ![](RackMultipart20210327-4-4qldl1_html_12c2274b4d448494.png)
+When setting up a community biology lab, consider the equipment and materials you will use and the basic infrastructure required to handle them. Whether setting up a space for the first time, moving to a new space, or settling into the space, consider the following list of recommendations for the infrastructure and design of a biology lab. ![Lab Infrastructure and Design](img/image47.png)
 
 - **Walls and floors.** The lab walls, ceilings, and floors should be smooth, impermeable to liquids and easy to clean. Walls should be fire resistant with no carpet or flammable materials on the wall or barriers. Walls and entryways should separate the lab from non-lab areas. Floors should be slip-resistant, durable, and easily cleaned. Floors should not be carpeted because the fabric may absorb chemicals and dirt and is very difficult to clean. Chemicals that soak into carpet may also cause reactions long after the chemical spill. Carpet may also become a breeding ground for microbes.
 
@@ -85,8 +85,6 @@ Below is a list of signs that are useful and often required in the lab:
 - **Eyewash station and safety shower.** Signs to identify the location and availability of an eyewash station and safety shower are important.
 - **Escape route.** A sign that shows the various egress routes in the case of an emergency should be posted.
 
-##
-
 **Warnings, Caution Signs, and Symbols**
 
 - **Biohazard symbol.** The biohazard symbol warns of lab equipment (e.g., fridges, freezers, centrifuges) that contains biohazardous materials or could be contaminated with biohazardous materials. These should only be used if the material warrants posting such signage, e.g., the material is classified as Biosafety Level 2 (see [Chapter 13 - Biological Safety](https://drive.google.com/open?id=1DSWb9wwbvD1NAk0J06eCeqga5SHmuCkdpAMwJMxiLbk)) and is likely or known to contain pathogens. This could include materials such as blood samples or primary human cell lines.
@@ -100,8 +98,6 @@ Below is a list of signs that are useful and often required in the lab:
 - **Hand washing.** Reminds lab users to wash their hands both before beginning work and when they are finished.
 - **No open flame.** Prohibits open flame devices, e.g., bunsen burners. These are especially useful near flammable chemicals, although some labs enforce a &quot;no open flame&quot; policy throughout the lab.
 - **Waste.** Helps to ensure that users know where to dispose of biohazardous waste versus recycling or regular trash.
-
-##
 
 **Chemical Signage**
 
@@ -700,5 +696,3 @@ This [Decommissioning Checklist](https://docs.google.com/spreadsheets/d/1zjM2dbT
  |
  |
  |
-
-##

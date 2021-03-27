@@ -3,11 +3,11 @@
 
 From its earliest beginnings the DIYbio community has incorporated safety, security, and responsible conduct into its ethical principles. The first iteration of a [code of conduct was developed in 2011](https://diybio.org/codes/) when there were only a handful of community laboratories (see below). It was They were a starting point, enabling each community lab or DIYbio group to adapt and evolve the codem over time.
 
-![](RackMultipart20210327-4-4qldl1_html_4c4f6a6226bb89cc.png) ![](RackMultipart20210327-4-4qldl1_html_76339f884f12a66a.png)
+![](img/image64.png) ![](img/image2.png)
 
 As the community has grown, the codes have grown with it. In 2019, [the Global Community Biosummit](https://www.biosummit.org/) developed and agreed to by consensus a [community ethics document](https://www.biosummit.org/ethics) thatcommunity labs should incorporate into their own practices and continue to evolve over time **.**
 
-![](RackMultipart20210327-4-4qldl1_html_301b25fc9c41c230.jpg) ![](RackMultipart20210327-4-4qldl1_html_6b56efc9ec945b4c.jpg)
+![](img/image33.jpg) ![](img/image70.jpg)
 
 ## **Human Subjects and Responsible Research (Including Public Outreach)**
 

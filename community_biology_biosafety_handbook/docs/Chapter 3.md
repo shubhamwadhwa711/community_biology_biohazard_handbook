@@ -76,7 +76,7 @@ More complex sign-in sheets can have tablets synced to a member database allowin
 
 We suggest labs restrict access to high-value or dangerous equipment. High-value equipment is difficult to find and most likely very expensive to repair if broken. There are several ways to restrict access: move the equipment to a separate room; remove and lock away key parts without which the equipment will not function, like expensive microscope objectives or sample input pumps; place lockout tags on pressure regulators; install access or power cord locks. RFID lockout solutions are commercially available but expensive.
 
-![](RackMultipart20210327-4-4qldl1_html_7f11fbb9002a7e56.png) ![](RackMultipart20210327-4-4qldl1_html_bef7491c654e8426.png)
+![](img/image6.png) ![](img/image19.png)
 
 ## **Emergency Exits**
 
